@@ -1,0 +1,14 @@
+<resources>
+    <string name="icon_name">Die App</string>
+    <string name="app_name">DIE Universidad de Santiago</string>
+    <string name="title">Mensaje Director</string>
+    <string name="author">Dr. Humberto Verdejo</string>
+    <string name="body">La comunidad académica del Departamento comprende la importancia de la educación y la investigación para el desarrollo de la juventud y, especialmente, para quienes como nuestros estudiantes eligen al Departamento de Ingeniería Eléctrica y la Universidad para formarse como profesionales y contribuir así al desarrollo del país y sus familias.  Nuestro compromiso es mejorar permanentemente la calidad y pertinencia de nuestra educación, la investigación que se desarrolla al interior del Departamento y elevar las expectativas de lo que los estudiantes pueden lograr. Nos comprometemos a apoyar a los estudiantes en el logro de sus objetivos de aprendizaje y formación profesional, de modo que cuando egresen, utilicen sus habilidades y conocimientos para apoyar a nuestros conciudadanos, contribuir a la economía, reconstruir nuestras comunidades y fortalecer la democracia.  El objetivo último de cualquier institución de educación superior es mejorar los logros estudiantiles de manera que los individuos puedan contribuir a nuestra democracia, economía, y comunidades y vivir sus propios sueños. Mejorar el logro estudiantil no siempre ha sido una tarea fácil. Requiere de cambios importantes en la forma que los educadores hacen su trabajo. Requiere de nuevas estructuras, nuevas herramientas y nuevo conocimiento.  Pero más que todo, para promover el logro estudiantil de forma que los estudiantes sean innovadores y contribuyan a su desarrollo personal y familiar y al engrandecimiento de la nación, se debe actualizar y mejorar la cultura del sistema de educación superior.  La educación es una prioridad nacional, y este Departamento ha hecho y seguirá haciendo de ella una fuente de orgullo para el país y su juventud. Este es y ha sido nuestro compromiso personal e institucional.</string>
+    <string name="unread_messages">cl.marcer.dieusach.UNREAD_MESSAGES</string>
+    <string name="title_activity_new_message">Redactar Nuevo Mensaje</string>
+    <string name="no_data_available">Aún no se crean mensajes.\n\n¡ Pronto tendrás novedades !</string>
+    <string name="sign_in">Iniciar Sesión</string>
+    <string name="sign_out_menu">Cerrar Sesión</string>
+    <string name="unread">unread_messages</string>
+    <string name="preferences_file">cl.marcer.iconbadges.PREFERENCES</string>
+</resources>

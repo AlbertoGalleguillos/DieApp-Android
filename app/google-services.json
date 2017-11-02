@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "909156958193",
+    "firebase_url": "https://die-usach.firebaseio.com",
+    "project_id": "die-usach",
+    "storage_bucket": "die-usach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909156958193:android:5e1d0f2df4a8f4e0",
+        "android_client_info": {
+          "package_name": "cl.marcer.dieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909156958193-nj08s9vo7ai79jfh9h51cm856j1tvnc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-7Ww5wcZIBJsuqbNWaGmA51U6OWN7z9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909156958193-nj08s9vo7ai79jfh9h51cm856j1tvnc8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "909156958193-no18k5v81rd8c97elrckfu6bsoe1b1co.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cl.marcer.Die-App"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909156958193:android:c7312919fa726737",
+        "android_client_info": {
+          "package_name": "cl.marcer.die_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909156958193-cvu53skci1b843f04n60khm3i11c2uqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.marcer.die_app",
+            "certificate_hash": "07a90628eb4ac46c983cc0f057403fe12f44d4b0"
+          }
+        },
+        {
+          "client_id": "909156958193-nj08s9vo7ai79jfh9h51cm856j1tvnc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-7Ww5wcZIBJsuqbNWaGmA51U6OWN7z9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909156958193-nj08s9vo7ai79jfh9h51cm856j1tvnc8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "909156958193-no18k5v81rd8c97elrckfu6bsoe1b1co.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cl.marcer.Die-App"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
